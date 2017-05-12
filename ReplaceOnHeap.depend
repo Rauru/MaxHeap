@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494437155 source:d:\clases\algoritmos\replaceonheap\test.cpp
+	"Test.h"
+
+1490091771 d:\clases\algoritmos\replaceonheap\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1494545100 source:d:\clases\algoritmos\replaceonheap\main.cpp
+	"Test.h"
+	<iostream>
+
